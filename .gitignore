@@ -1,0 +1,15 @@
+# Assessment data
+data/*.xlsx
+
+# Python
+__pycache__/
+*.py[cod]
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Environment / secrets
+.env
+
+# Generated outputs
+outputs/*
