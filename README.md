@@ -55,9 +55,6 @@ Vehicle telemetry is evaluated for sensor anomalies across key telemetry metrics
 
 These metrics are converted into component scores and synthesized into a **Vehicle Inspection Score** to prioritize vehicles for further physical investigation.
 
-> [!NOTE]
-> The inspection score reflects **maintenance and inspection priority**, not confirmed mechanical failure.
-
 ---
 
 ## Tools & Technologies
